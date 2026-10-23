@@ -1,6 +1,6 @@
 # EventHub - College Event Management Portal (AIP Mini Project)
-#Aditya Mangalam || UID: 26MCC20078 || Chandigarh University
-Servlet + JSP + JDBC + Hibernate on Apache Tomcat 10.1 and MySQL 8.0.
+# Aditya Mangalam || UID: 26MCC20078 || Chandigarh University
+#Servlet + JSP + JDBC + Hibernate on Apache Tomcat 10.1 and MySQL 8.0.
 
 ## 1. Create the database
 1. Open MySQL Workbench (or the mysql command line).
